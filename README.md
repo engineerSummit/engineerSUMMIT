@@ -10,7 +10,7 @@ A community for budding tech geeks guiding them to discover and enhance their te
 - 👯 We wish to become a medium by which tech companies can hire skilled and taleted individuals. 
 - 🔭 If you share our thoughts we will be happy to connect with you.
 
-# YouTube
-<!-- YouTube-LIST:START -->
-<!-- YouTube-LIST:END -->
+# Latest YouTube videos
+<!-- YouTube:START -->
+<!-- YouTube:END -->
 
