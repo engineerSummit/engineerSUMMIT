@@ -11,6 +11,5 @@ A community for budding tech geeks guiding them to discover and enhance their te
 - 🔭 If you share our thoughts we will be happy to connect with you.
 
 # Latest YouTube videos
-<!-- YouTube:START -->
-<!-- YouTube:END -->
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
