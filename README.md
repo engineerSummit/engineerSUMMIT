@@ -18,3 +18,7 @@ A community for budding tech geeks guiding them to discover and enhance their te
 - [Swapping of two numbers🔥👈||Java🔥🔥||engineerSUMMIT👈](https://www.youtube.com/watch?v=BmCNR7LSmJU)
 - [Basics of Machine Learning👈||Webinar🔥🔥||engineerSUMMIT||Live Q&A session🔥🔥](https://www.youtube.com/watch?v=zgLKBZ1qVJI)
 <!-- YOUTUBE:END -->
+
+# Latest LinkedIn Posts
+<!-- LINKEDIN:START -->
+<!-- LINKEDIN:END -->
