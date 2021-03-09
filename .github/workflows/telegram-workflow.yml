@@ -1,4 +1,4 @@
-name: Latest LinkedIn Posts
+name: Latest Telegram Posts
 on:
   schedule:
     # Runs every hour
@@ -7,11 +7,11 @@ on:
 
 jobs:
   update-readme-with-youtube:
-    name: Update this repo's README with latest posts from you LinkedIn
+    name: Update this repo's README with latest posts from you TELEGRAM
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "LINKEDIN"
-          feed_list: "https://www.linkedin.com/in/shivam-gupta-43918219a/detail/recent-activity/shares/"
+          comment_tag_name: "TELEGRAM"
+          feed_list: "https://t.me/s/engineersummit"
