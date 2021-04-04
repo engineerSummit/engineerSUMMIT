@@ -12,11 +12,11 @@ A community for budding tech geeks guiding them to discover and enhance their te
 
 # Latest YouTube videos
 <!-- YOUTUBE:START -->
+- [Basics of Cybersecurity and Hacking👈||engineerSUMMIT|| Live Q&A session](https://www.youtube.com/watch?v=hfY9LGDb4Gc)
 - [Web Development quiz explanation👈||engineerSummit 🔥🔥](https://www.youtube.com/watch?v=ZJdDrnglMgQ)
 - [Roadmap for Competitive Programming🔥🔥||engineerSUMMIT👈](https://www.youtube.com/watch?v=TF7KsOp9uQQ)
 - [What is Git and Git command🔥🔥||engineerSUMMIT👈](https://www.youtube.com/watch?v=1dCLI5d3gq0)
 - [Swapping of two numbers🔥👈||Java🔥🔥||engineerSUMMIT👈](https://www.youtube.com/watch?v=BmCNR7LSmJU)
-- [Basics of Machine Learning👈||Webinar🔥🔥||engineerSUMMIT||Live Q&A session🔥🔥](https://www.youtube.com/watch?v=zgLKBZ1qVJI)
 <!-- YOUTUBE:END -->
 
 # Latest LinkedIn Posts
