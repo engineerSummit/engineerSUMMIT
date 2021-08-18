@@ -12,11 +12,11 @@ A community for budding tech geeks guiding them to discover and enhance their te
 
 # Latest YouTube videos
 <!-- YOUTUBE:START -->
+- [#motivation](https://www.youtube.com/watch?v=jJN_62idvvI)
 - [Webinar on GSoC | Google Summer of Code | engineerSUMMIT](https://www.youtube.com/watch?v=YY6rzlCFg1o)
 - [How to start Web Development 🔥||Webinar & Q&A session 🔥|| New batch 2021||engineerSUMMIT](https://www.youtube.com/watch?v=cIUup-_5hQY)
 - [HTML crash course📚📚||Webinar👈||engineerSUMMIT👈](https://www.youtube.com/watch?v=QhNmOY5pS1A)
 - [Basics of Cybersecurity and Hacking👈||engineerSUMMIT|| Live Q&A session](https://www.youtube.com/watch?v=hfY9LGDb4Gc)
-- [Web Development quiz explanation👈||engineerSummit 🔥🔥](https://www.youtube.com/watch?v=ZJdDrnglMgQ)
 <!-- YOUTUBE:END -->
 
 # Latest LinkedIn Posts
