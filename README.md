@@ -1,4 +1,4 @@
-### Hi there, this is engineerSUMMIT👋
+### Hi there, this is engineerHUB👋
 
 A community for budding tech geeks guiding them to discover and enhance their technical skills.
 
